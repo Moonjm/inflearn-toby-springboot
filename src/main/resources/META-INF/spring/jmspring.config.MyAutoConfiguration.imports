@@ -1,0 +1,5 @@
+jmspring.config.autoconfig.TomcatWebServerConfig
+jmspring.config.autoconfig.JettyWebServerConfig
+jmspring.config.autoconfig.DispatcherServletConfig
+jmspring.config.autoconfig.PropertyPlaceholderConfig
+jmspring.config.autoconfig.ServerPropertiesConfig
