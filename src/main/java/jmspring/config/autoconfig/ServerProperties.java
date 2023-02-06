@@ -1,5 +1,8 @@
 package jmspring.config.autoconfig;
 
+import jmspring.config.MyConfigurationProperties;
+
+@MyConfigurationProperties(prefix = "server")
 public class ServerProperties {
     private String contextPath;
     private int port;
