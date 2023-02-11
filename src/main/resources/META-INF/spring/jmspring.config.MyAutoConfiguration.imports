@@ -3,3 +3,4 @@ jmspring.config.autoconfig.JettyWebServerConfig
 jmspring.config.autoconfig.DispatcherServletConfig
 jmspring.config.autoconfig.PropertyPlaceholderConfig
 jmspring.config.autoconfig.PropertyPostProcessorConfig
+jmspring.config.autoconfig.DataSourceConfig
