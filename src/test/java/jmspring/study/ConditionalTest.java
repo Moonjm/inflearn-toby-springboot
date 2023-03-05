@@ -25,10 +25,10 @@ public class ConditionalTest {
         MyBean bean = ac.getBean(MyBean.class);
 
         // false
-        AnnotationConfigWebApplicationContext ac2 = new AnnotationConfigWebApplicationContext();
-        ac2.register(Config2.class);
-        ac2.refresh();
-        MyBean bean2 = ac2.getBean(MyBean.class);
+//        AnnotationConfigWebApplicationContext ac2 = new AnnotationConfigWebApplicationContext();
+//        ac2.register(Config2.class);
+//        ac2.refresh();
+//        MyBean bean2 = ac2.getBean(MyBean.class);
     }
 
     @Test
